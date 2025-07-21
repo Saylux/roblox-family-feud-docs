@@ -22,3 +22,12 @@ This folder contains all core design, engineering, and process documentation for
 
 ## Extending the Design
 If you add new stages (e.g., Requirements, Release Management, Analytics), follow the same structure: create a new subfolder with `tools/` and `plan/` subfolders, and update this README. 
+
+# Autonomous AI Documentation
+
+This section contains documentation, tradeoff analysis, and decision records for autonomous AI agent frameworks and tools considered for the Roblox Family Feud project.
+
+- Overview of major autonomous AI frameworks
+- Tradeoff analysis between different options
+- Decision record on the selected framework
+- Setup and debugging tips for easy onboarding 
